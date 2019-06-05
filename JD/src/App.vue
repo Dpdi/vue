@@ -76,6 +76,7 @@ a {
 ul {
   width: 100%;
   display: flex;
+  justify-content:space-between;
   position: fixed;
   bottom: 0;
   background: #f7f7f7;
